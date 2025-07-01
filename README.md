@@ -1,4 +1,4 @@
-#K-Nearest Neighbors (KNN) Classification - ReadMe
+K-Nearest Neighbors (KNN) Classification - ReadMe
 
 Objective
 
